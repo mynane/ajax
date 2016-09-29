@@ -1,0 +1,14 @@
+{
+  "name": "ajax",
+  "version": "0.0.4",
+  "description": "a ajax lib",
+  "main": "ajax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ajax"
+  ],
+  "author": "huazaierli",
+  "license": "ISC"
+}
